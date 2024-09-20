@@ -1,0 +1,30 @@
+.container {
+    border-radius: 4px;
+    overflow: hidden;
+    background-color: #fff;
+  }
+  
+  .content-image {
+    display: flex;
+    width: 200%;
+    height: 300px;
+    /* box-sizing: border-box; */
+    /* padding: 80% 0; */
+  }
+  .content-text {
+    color: #333;
+    font-weight: 700;
+    font-size: 1.15em;
+    text-align: center;
+    padding: 0.5em 1em;
+  }
+  .custom-link {
+    display: block;
+    text-decoration: none;
+    color: #333;
+    padding: 8px 0;
+  }
+  .custom-link:hover {
+    color: rgb(0, 27, 87);
+    /* cursor: pointer; */
+  }

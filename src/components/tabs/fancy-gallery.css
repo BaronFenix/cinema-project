@@ -1,0 +1,19 @@
+.gallery-block {
+    margin: 10px 0;
+    display: flex;
+    flex-wrap: nowrap;
+    height: 25vh;
+    overflow-x: auto;
+}
+
+.gallery-block img, a{
+    height: 20vh;
+    padding-right: 5px;
+}
+.video-frame {
+    height: 20vh;
+    padding-right: 5px;
+}
+.description-block {
+    margin: 30px 0;
+}

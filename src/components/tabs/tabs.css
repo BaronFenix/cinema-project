@@ -1,0 +1,28 @@
+
+.tab button {
+  background: #fff;
+  float: left;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 16px;
+  transition: 0.2s;
+  font-size: 17px;
+}
+
+
+.tab button:hover {
+  opacity: 0.6;
+}
+
+
+.tab button.active {
+  border-bottom: 3px solid #001b57;
+  border-radius: 1.5px;
+}
+
+
+.tabcontent {
+  padding: 6px 12px;
+  border-top: none;
+}

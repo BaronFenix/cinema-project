@@ -1,0 +1,257 @@
+[
+    {
+        "id": "0",
+        "title": "Нет алкоголю!",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "premier": "21.02.1964",
+        "genres": "Мем",
+        "duration": "88",
+        "country": "СССР",
+        "director": "Евгений гений",
+        "poster": "/images/posters/no.jpg",
+        "trailer": "https://youtu.be/dQw4w9WgXcQ?si=ihUG9DbuFZ1mkEsA",
+        "actors": [
+            "Антон антонов",
+            "Михайло потапыч"
+        ],
+        "screens": [
+            "/images/screenshots/screen-1.jpg",
+            "/images/screenshots/screen-2.jpg",
+            "/images/screenshots/screen-3.jpg",
+            "/images/screenshots/screen-4.jpg",
+            "/images/screenshots/screen-5.jpg",
+            "/images/screenshots/screen-6.jpg",
+            "/images/screenshots/screen-7.jpg",
+            "/images/screenshots/screen-8.jpg"
+        ]
+    },
+    {
+        "id": "1",
+        "title": "Планета обезьян: Новое царство",
+        "description": "Действие фильма разворачивается в будущем через несколько поколений после правления Цезаря, в котором обезьяны являются доминирующим видом, живущим в гармонии, а люди вынуждены оставаться в тени. Пока новый тиранический лидер обезьян строит свою империю, один молодой шимпанзе отправляется в путешествие, которое заставит его усомниться во всём, что он знал о прошлом, и сделать выбор, который определит будущее как обезьян, так и людей.",
+        "premier": "14.05.2024",
+        "genres": "фантастика, боевик",
+        "duration": "150",
+        "country": "США",
+        "director": "Уэс Болл",
+        "poster": "/images/posters/apesPlanet.webp",
+        "trailer": "https://www.youtube.com/embed/AZ3NZiIZay4?si=Pu51907ytknwEYrR",
+        "actors": [
+            "Фрейя Аллан",
+            "Кевин Дюран",
+            "Уильям Х. Мэйси",
+            "Дичен Лакмэн",
+            "Оуэн Тиг"
+        ],
+        "screens": [
+            "/images/screenshots/screen-1.jpg",
+            "/images/screenshots/screen-2.jpg",
+            "/images/screenshots/screen-3.jpg",
+            "/images/screenshots/screen-4.jpg",
+            "/images/screenshots/screen-5.jpg",
+            "/images/screenshots/screen-6.jpg",
+            "/images/screenshots/screen-7.jpg",
+            "/images/screenshots/screen-8.jpg"
+        ]
+    },
+    {
+        "id": "2",
+        "title": "САЛЕМ, ПАПА",
+        "description": "Салем, папа - это захватывающая история подростка, который растет без отца. Его тяготит отсутствие поддержки и сильной руки в семье. Мама старшеклассника делает все, что в ее силах, но ее опека и любовь не способны преодолеть жизненные трудности выпадающие на их долю. Главный герой решает найти отца, но узнает, что их семейная жизнь покрыта тайнами. Какую тайну предстоит узнать юноше? Какие жизненные выводы выпадут на его долю? И как ему придется справиться с ними? Все это, вы сможете узнать, посмотрев фильм Салем, папа.",
+        "premier": "9.05.2024",
+        "genres": "драмеди",
+        "duration": "90",
+        "country": "Казахстан",
+        "director": "Дамир Тастембеков",
+        "poster": "/images/posters/salemPapa.webp",
+        "trailer": "https://youtu.be/zTenwd__Yrk?si=anhphy0euwQ0msEm",
+        "actors": [
+            "Еркебулан Дайыров",
+            "Юлдуз Раджабова",
+            "Жасулан Копберген",
+            "Данияр Таженов",
+            "Жазира Еркин"
+        ],
+        "screens": [
+            "/images/screenshots/screen-1.jpg",
+            "/images/screenshots/screen-2.jpg",
+            "/images/screenshots/screen-3.jpg",
+            "/images/screenshots/screen-4.jpg",
+            "/images/screenshots/screen-5.jpg",
+            "/images/screenshots/screen-6.jpg",
+            "/images/screenshots/screen-7.jpg",
+            "/images/screenshots/screen-8.jpg"
+        ]
+    },
+    {
+        "id": "3",
+        "title": "Каскадёры",
+        "description": "Потрёпанный жизнью каскадёр Колт нехотя возвращается в профессию, чтобы помочь бывшей девушке Джоди снять первый фильм — блокбастер с многомиллионным бюджетом. Ситуация осложняется пропажей исполнителя главной роли.",
+        "premier": "02.05.2024",
+        "genres": "боевик, драма, комедия",
+        "duration": "130",
+        "country": "США",
+        "director": "Дэвид Литч",
+        "poster": "/images/posters/stuntmans.webp",
+        "trailer": "https://youtu.be/1ocUfrPiCWs?si=x6y7NfZ0Rzr1e-Um",
+        "actors": [
+            "Райан Гослинг",
+            "Эмили Блант",
+            "Аарон Тейлор-Джонсон",
+            "Ханна Уэддингхэм"
+        ],
+        "screens": [
+            "/images/screenshots/screen-1.jpg",
+            "/images/screenshots/screen-2.jpg",
+            "/images/screenshots/screen-3.jpg",
+            "/images/screenshots/screen-4.jpg",
+            "/images/screenshots/screen-5.jpg",
+            "/images/screenshots/screen-6.jpg",
+            "/images/screenshots/screen-7.jpg",
+            "/images/screenshots/screen-8.jpg"
+        ]
+    },
+    {
+        "id": "4",
+        "title": "Приключения панды",
+        "description": "Юный, но отважный панда по имени Пан отправляется в Африку, чтобы спасти свою лучшую подругу — дракона Цзелун. Теперь его ждёт захватывающее путешествие в удивительный для него мир гор, пустынь и джунглей. Полагаясь на свой ум, доброту и находчивость, он заведёт множество новых друзей среди местных обитателей, ведь у храбрости нет размера, а настоящая дружба не знает преград.",
+        "premier": "2.05.2024",
+        "genres": "мультфильм, комедия, приключения",
+        "duration": "84",
+        "country": "Дания, Нидерланды, Франция, Германия, Эстония",
+        "director": "Рихард Клаус, Карстен Килерих",
+        "poster": "/images/posters/pandaAdventures.webp",
+        "trailer": "https://youtu.be/kmjPHPSm-5I?si=SL1VApcEh6Hu4fZF",
+        "actors": [
+            "Том Хоффман",
+            "Георгина Вербаан",
+            "Юта Вонг Лой Синг",
+            "Thulani Nzonzo"
+        ],
+        "screens": [
+            "/images/screenshots/screen-1.jpg",
+            "/images/screenshots/screen-2.jpg",
+            "/images/screenshots/screen-3.jpg",
+            "/images/screenshots/screen-4.jpg",
+            "/images/screenshots/screen-5.jpg",
+            "/images/screenshots/screen-6.jpg",
+            "/images/screenshots/screen-7.jpg",
+            "/images/screenshots/screen-8.jpg"
+        ]
+    },
+    {
+        "id": "5",
+        "title": "Таро: Карта смерти",
+        "description": "Когда компания друзей безрассудно нарушает священное правило гадания на Таро — никогда не использовать чужую колоду — они неосознанно высвобождают зло, запертое в проклятых картах. Один за другим они оказываются лицом к лицу с судьбой и вступают в гонку со смертью, чтобы избежать будущего, предсказанного в их гаданиях.",
+        "premier": "2.05.2024",
+        "genres": "Ужасы",
+        "duration": "92",
+        "country": "США",
+        "director": "пенсер Коэн, Анна Ройс",
+        "poster": "/images/posters/taro.webp",
+        "trailer": "https://youtu.be/Fj76FezC4jA?si=DDiCh4i3Oo-_ZVSq",
+        "actors": [
+            "Авантика",
+            "Олуэн Фуэре",
+            "Джейкоб Баталон",
+            "Арриет Слейтер"
+        ],
+        "screens": [
+            "/images/screenshots/screen-1.jpg",
+            "/images/screenshots/screen-2.jpg",
+            "/images/screenshots/screen-3.jpg",
+            "/images/screenshots/screen-4.jpg",
+            "/images/screenshots/screen-5.jpg",
+            "/images/screenshots/screen-6.jpg",
+            "/images/screenshots/screen-7.jpg",
+            "/images/screenshots/screen-8.jpg"
+        ]
+    },
+    {
+        "id": "6",
+        "title": "Пацан против всех",
+        "description": "Семья парня была убита Хильдой Ван Дер Кой — главой коррумпированной постапокалиптической династии, а сам он стал глухонемым. Бой сбегает в джунгли, где отшельник обучает его боевым искусствам. Завершив обучение, парень оказывается один в безумном мире и вскоре попадает в группу сопротивления, которая строит планы свергнуть правящую династию.",
+        "premier": "09.05.2024",
+        "genres": "Боевик",
+        "duration": "115",
+        "country": "Германия, ЮАР, США",
+        "director": "Мориц Мор",
+        "poster": "/images/posters/guyVsAll.webp",
+        "trailer": "https://youtu.be/Wm43FZAFBZE?si=wkIJO84SqPi7Pzfi",
+        "actors": [
+            "Билл Скарсгард",
+            "Фамке Янссен",
+            "Джессика Рот",
+            "Мишель Докери",
+            "Бретт Гельман"
+        ],
+        "screens": [
+            "/images/screenshots/screen-1.jpg",
+            "/images/screenshots/screen-2.jpg",
+            "/images/screenshots/screen-3.jpg",
+            "/images/screenshots/screen-4.jpg",
+            "/images/screenshots/screen-5.jpg",
+            "/images/screenshots/screen-6.jpg",
+            "/images/screenshots/screen-7.jpg",
+            "/images/screenshots/screen-8.jpg"
+        ]
+    },
+    {
+        "id": "7",
+        "title": "Операция «НАБАТ»",
+        "description": "Сюжет 1992 жылы Оңтүстік Қазақстанда болған оқиға, Ресейге жөнелтіліп жатқанда қашып кеткен тұтқындар жолаушылармен бірге автобусты кепілге алғаны туралы баяндайды. Оларды құтқаруға Қазақстанның ұлттық қауіпсіздік және құқық қорғау органдарының үздік күштері жіберілді. Сюжет повествует о событиях 1992 года, произошедших в Южном Казахстане, когда сбежавшие при этапировании в Россию заключенные захватили в заложники рейсовый автобус с пассажирами. На их спасение были отряжены лучшие силы казахстанской нацбезопасности и правопорядка.",
+        "premier": "2.05.2024",
+        "genres": "драма, боевик",
+        "duration": "110",
+        "country": "Казахстан",
+        "director": "Рашид Сулейменов",
+        "poster": "/images/posters/operationNabat.webp",
+        "trailer": "https://youtu.be/tbYhSePOGzY?si=Tai2vl9b2rH0RliL",
+        "actors": [
+            "Бахыт Хаджибаев",
+            "Алексей Шемес",
+            "Айгерим Жунусова",
+            "Сергей Быхов",
+            "Динара Ныгметуллина"
+        ],
+        "screens": [
+            "/images/screenshots/screen-1.jpg",
+            "/images/screenshots/screen-2.jpg",
+            "/images/screenshots/screen-3.jpg",
+            "/images/screenshots/screen-4.jpg",
+            "/images/screenshots/screen-5.jpg",
+            "/images/screenshots/screen-6.jpg",
+            "/images/screenshots/screen-7.jpg",
+            "/images/screenshots/screen-8.jpg"
+        ]
+    },
+    {
+        "id": "8",
+        "title": "Кунг-фу Панда 4",
+        "description": "Продолжение приключений легендарного Воина Дракона, его верных друзей и наставника.",
+        "premier": "07.03.2024",
+        "genres": "мультфильм, фэнтези, боевик, комедия, приключения, семейный",
+        "duration": "94",
+        "country": "США, Китай",
+        "director": "Майк Митчелл, Стефани Стайн",
+        "poster": "/images/posters/fatPanda.webp",
+        "trailer": "https://youtu.be/Xq7PsTU7vCQ?si=CkKOfvDiq13vK3OE",
+        "actors": [
+            "Джек Блэк",
+            "Аквафина",
+            "Виола Дэвис",
+            "Дастин Хоффман",
+            "Джеймс Хун"
+        ],
+        "screens": [
+            "/images/screenshots/screen-1.jpg",
+            "/images/screenshots/screen-2.jpg",
+            "/images/screenshots/screen-3.jpg",
+            "/images/screenshots/screen-4.jpg",
+            "/images/screenshots/screen-5.jpg",
+            "/images/screenshots/screen-6.jpg",
+            "/images/screenshots/screen-7.jpg",
+            "/images/screenshots/screen-8.jpg"
+        ]
+    }
+]

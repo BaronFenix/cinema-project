@@ -1,0 +1,26 @@
+.poster-image {
+    height: 300px;
+}
+.movie-block {
+    display: flex;
+    flex-direction: row;
+}
+.details-block {
+    padding: 0 2em;
+}
+.text-accent {
+    color: #001b57;
+    font-weight: 600;
+}
+.text-bold {
+    font-weight: 700;
+    font-size: 13pt;
+}
+.text-title {
+    font-size: 28pt;
+}
+.underline {
+    margin: 10px 0 10px 0;
+    border: none;
+    border-bottom: 1px solid #a0a0a0;
+}

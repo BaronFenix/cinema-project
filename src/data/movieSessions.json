@@ -1,0 +1,110 @@
+[
+    {
+        "movieId": 0,
+        "cinema": "Kinopark",
+        "time": "22:00",
+        "adult": "2900 ₸",
+        "kids": "1500 ₸",
+        "student": "2600 ₸",
+        "vip": "5500 ₸"
+    },
+    {
+        "movieId": 0,
+        "cinema": "Kinopark",
+        "time": "16:00",
+        "adult": "2700 ₸",
+        "kids": "1600 ₸",
+        "student": "2500 ₸",
+        "vip": "4500 ₸"
+    },
+    {
+        "movieId": 0,
+        "cinema": "Kinopark",
+        "time": "14:00",
+        "adult": "2400 ₸",
+        "kids": "1400 ₸",
+        "student": "2100 ₸",
+        "vip": "3300 ₸"
+    },
+    {
+        "movieId": 0,
+        "cinema": "Kinopark",
+        "time": "22:00",
+        "adult": "2900 ₸",
+        "kids": "1500 ₸",
+        "student": "2600 ₸",
+        "vip": "5500 ₸"
+    },
+    {
+        "movieId": 0,
+        "cinema": "Kinopark",
+        "time": "16:00",
+        "adult": "2700 ₸",
+        "kids": "1600 ₸",
+        "student": "2500 ₸",
+        "vip": "4500 ₸"
+    },
+    {
+        "movieId": 0,
+        "cinema": "Kinopark",
+        "time": "14:00",
+        "adult": "2400 ₸",
+        "kids": "1400 ₸",
+        "student": "2100 ₸",
+        "vip": "3300 ₸"
+    },
+    {
+        "movieId": 0,
+        "cinema": "Chaplin",
+        "time": "22:00",
+        "adult": "2900 ₸",
+        "kids": "1500 ₸",
+        "student": "2600 ₸",
+        "vip": "5500 ₸"
+    },
+    {
+        "movieId": 0,
+        "cinema": "Chaplin",
+        "time": "16:00",
+        "adult": "2700 ₸",
+        "kids": "1600 ₸",
+        "student": "2500 ₸",
+        "vip": "4500 ₸"
+    },
+    {
+        "movieId": 0,
+        "cinema": "Chaplin",
+        "time": "14:00",
+        "adult": "2400 ₸",
+        "kids": "1400 ₸",
+        "student": "2100 ₸",
+        "vip": "3300 ₸"
+    },
+    {
+        "movieId": 0,
+        "cinema": "Kinopark",
+        "time": "22:00",
+        "adult": "2900 ₸",
+        "kids": "1500 ₸",
+        "student": "2600 ₸",
+        "vip": "5500 ₸"
+    },
+    {
+        "movieId": 0,
+        "cinema": "Kinopark",
+        "time": "16:00",
+        "adult": "2700 ₸",
+        "kids": "1600 ₸",
+        "student": "2500 ₸",
+        "vip": "4500 ₸"
+    },
+    {
+        "movieId": 0,
+        "cinema": "Kinopark",
+        "time": "14:00",
+        "adult": "2400 ₸",
+        "kids": "1400 ₸",
+        "student": "2100 ₸",
+        "vip": "3300 ₸"
+    }
+]

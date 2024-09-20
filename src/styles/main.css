@@ -1,0 +1,13 @@
+.main-container {
+    width: 80%;
+    margin: 5% auto;
+  }
+.container {
+    padding: 0 15px;
+}
+
+.title {
+    font-weight: 700;
+    font-size: 2em;
+    margin: 1em 1em;
+}
